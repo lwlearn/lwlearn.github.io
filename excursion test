@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <link href="/Users/laura/excursions/resources/css/style.css" type="text/css" rel="stylesheet">
+    <meta charset="utf-8">
+    <title>Excursion</title>
+  </head>
+  <body>
+    <h1>Discover hidden places in the world around you</h1>
+    <h6>Download Excursion (Coming Soon!)</h6>
+    <video src="//Users/laura/excursions/resources/video/excursion (1).mp4" width="320" height="240" controls>
+  Video not supported
+</video>
+    <h2>Your personal travel guide</h2>
+    <p>"Excursion remembers places you like, and recommends places ofinterest around you."</p>
+    <img src="/Users/laura/excursions/resources/images/camp.jpg">
+    <img src="/Users/laura/excursions/resources/images/phone.png">
+    <h2>"Coming Soon for iPhone and Android"</h2>
+  </body>
+</html>
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
